@@ -1,0 +1,79 @@
+/***************
+Login.css :
+****************
+This is the login.css file which is used in login.js file. 
+ **************/
+
+@font-face {
+  font-family: "Granesta";
+  src: url(../../fonts/Granesta-L37q4.otf) format("truetype");
+}
+
+@font-face {
+  font-family: "Memphis";
+  src: url(../../fonts/Memphis\ River.otf) format("truetype");
+}
+
+.login,
+.image {
+  min-height: 100vh;
+}
+.bg-image {
+  background-image: url('https://thumbor.forbes.com/thumbor/fit-in/900x510/https://www.forbes.com/advisor/wp-content/uploads/2021/01/travelrewards.jpg');
+  background-size: cover;
+  background-position: center center;
+}
+
+.img_text_hd {
+  position: absolute;
+  top: 20%;
+  left: 25%;
+  transform: translate(-50%, -50%);
+  color: white;
+  font-family: Granesta;
+}
+
+.img_text_tag {
+  position: absolute;
+  top: 26%;
+  left: 25%;
+  transform: translate(-50%, -50%);
+  color: white;
+  font-family: Memphis;
+}
+
+.img {
+  position: absolute;
+  top: 10%;
+  left: 70%;
+  width: 8%;
+}
+
+.icon_eye {
+  margin-top: -30px;
+  margin-right: 10px;
+  padding: 3.5px;
+  background: black;
+  color: white;
+  min-width: 20px;
+  text-align: center;
+  float: right;
+}
+
+.icon_no_bag {   
+  background: white !important;
+  color: black !important;
+}
+
+.validation {
+  text-align: center;
+  color: red;
+}
+
+.display-4 {
+  font-size: 3rem !important;
+}
+
+.but_wdth{
+  width: 100% ;
+}

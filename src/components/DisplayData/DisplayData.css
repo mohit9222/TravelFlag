@@ -1,0 +1,55 @@
+/***************
+DisplayData.css :
+****************
+This is the DisplayData.css file which is used in DisplayData.js file. 
+ **************/
+
+@font-face {
+    font-family: "Granesta";
+    src: url("../../fonts/Granesta-L37q4.otf") format("truetype");
+}
+@font-face {
+    font-family: "Memphis";
+    src: url("../../fonts/Memphis\ River.otf") format("truetype");
+}
+
+.border-box {
+    /* border: 1px solid black; */
+    box-sizing: border-box;
+}
+
+.UserID {
+    font-family: "Granesta";
+}
+
+.ID {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.title {
+    font-family: monospace;
+    padding-top: 5%;
+}
+
+.para {
+    font-family: sans-serif;
+}
+
+.stars {
+    color: orange;
+}
+
+.btns {
+    background-color: orange !important;
+    border-color: orange !important;
+    width: 25% !important;
+}
+
+.load {
+    position: fixed;
+    left: 50%;
+    top: 50%;
+    width: 100%;
+    height: 100%;
+    z-index: 9999;
+}

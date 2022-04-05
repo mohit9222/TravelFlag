@@ -1,0 +1,88 @@
+<mxfile host="65bd71144e">
+    <diagram id="s1EgO0926RrH9eBA5r_y" name="Page-1">
+        <mxGraphModel dx="260" dy="125" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="PrtFuoL-wmwG1fgsdBIX-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="PrtFuoL-wmwG1fgsdBIX-28" target="PrtFuoL-wmwG1fgsdBIX-32" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="PrtFuoL-wmwG1fgsdBIX-28" value="App Launch" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="220" y="40" width="80" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="PrtFuoL-wmwG1fgsdBIX-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="PrtFuoL-wmwG1fgsdBIX-30" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="260" y="300" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="PrtFuoL-wmwG1fgsdBIX-30" value="Enter the Email ID&lt;br&gt;and Password" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="200" y="220" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="PrtFuoL-wmwG1fgsdBIX-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="PrtFuoL-wmwG1fgsdBIX-32" target="PrtFuoL-wmwG1fgsdBIX-30" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="PrtFuoL-wmwG1fgsdBIX-32" value="Landing page(Login)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="200" y="130" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="PrtFuoL-wmwG1fgsdBIX-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="PrtFuoL-wmwG1fgsdBIX-34" target="PrtFuoL-wmwG1fgsdBIX-39" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="PrtFuoL-wmwG1fgsdBIX-34" value="Email Id &amp;amp;&amp;nbsp;&lt;br&gt;Password is valid" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="215" y="300" width="90" height="90" as="geometry"/>
+                </mxCell>
+                <mxCell id="PrtFuoL-wmwG1fgsdBIX-35" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="PrtFuoL-wmwG1fgsdBIX-34" target="PrtFuoL-wmwG1fgsdBIX-30" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="260" y="270" as="sourcePoint"/>
+                        <mxPoint x="310" y="220" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="130" y="345"/>
+                            <mxPoint x="130" y="250"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="PrtFuoL-wmwG1fgsdBIX-36" value="NO" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+                    <mxGeometry x="90" y="290" width="30" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="PrtFuoL-wmwG1fgsdBIX-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="PrtFuoL-wmwG1fgsdBIX-39" target="PrtFuoL-wmwG1fgsdBIX-41" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="PrtFuoL-wmwG1fgsdBIX-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="PrtFuoL-wmwG1fgsdBIX-39" target="PrtFuoL-wmwG1fgsdBIX-44" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="PrtFuoL-wmwG1fgsdBIX-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="PrtFuoL-wmwG1fgsdBIX-39" target="PrtFuoL-wmwG1fgsdBIX-46" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="PrtFuoL-wmwG1fgsdBIX-39" value="Dashboard Page&lt;br&gt;(Display data)" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="370" y="315" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="PrtFuoL-wmwG1fgsdBIX-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="PrtFuoL-wmwG1fgsdBIX-41" target="PrtFuoL-wmwG1fgsdBIX-30" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="PrtFuoL-wmwG1fgsdBIX-41" value="Logout" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="370" y="220" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="PrtFuoL-wmwG1fgsdBIX-42" value="YES" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+                    <mxGeometry x="310" y="320" width="40" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="PrtFuoL-wmwG1fgsdBIX-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="PrtFuoL-wmwG1fgsdBIX-44" target="PrtFuoL-wmwG1fgsdBIX-48" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="PrtFuoL-wmwG1fgsdBIX-44" value="ADD album" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="570" y="315" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="PrtFuoL-wmwG1fgsdBIX-46" value="Delete Album" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="370" y="420" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="PrtFuoL-wmwG1fgsdBIX-51" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="PrtFuoL-wmwG1fgsdBIX-48" target="PrtFuoL-wmwG1fgsdBIX-50" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="PrtFuoL-wmwG1fgsdBIX-48" value="Modal" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="570" y="220" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="PrtFuoL-wmwG1fgsdBIX-50" value="Fill in the details&amp;nbsp;&lt;br&gt;and Save" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="570" y="80" width="120" height="60" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>

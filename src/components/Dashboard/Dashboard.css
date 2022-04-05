@@ -1,0 +1,30 @@
+/***************
+Dashboard.css :
+****************
+This is the Dashboard.css file which is used in Dashboard.js file. 
+ **************/
+@font-face {
+  font-family: "Granesta";
+  src: url(../../fonts/Granesta-L37q4.otf) format("truetype");
+}
+
+@font-face {
+  font-family: "Memphis";
+  src: url(../../fonts/Memphis\ River.otf) format("truetype");
+}
+
+.logo {
+  font-family: Granesta;
+}
+
+.logout {
+  color: white;
+  font-family: Memphis;
+  font-size: 30px;
+  text-decoration: none;
+}
+
+.push-right {
+    float: right;
+    line-height: 50px;
+  }

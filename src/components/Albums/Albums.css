@@ -1,0 +1,14 @@
+/***************
+Album.css :
+****************
+This is the Album.css file which is used in Album.js file. 
+ **************/
+.Add_user {
+    float: right;
+}
+
+.but_wdth {
+    background-color: black !important;
+    color: white !important;
+    border-color: black !important;
+}

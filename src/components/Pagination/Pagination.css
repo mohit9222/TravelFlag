@@ -1,0 +1,22 @@
+/***************
+Pagination.css :
+****************
+This is the Pagination.css file which is used in Pagination.js file. 
+ **************/
+
+#container {
+    margin: 1rem;
+  }
+  
+  .items {
+    margin-bottom: 1rem;
+  }
+
+.active a {
+  background-color: black;
+  color: white !important;
+}
+
+.page-link {
+  color: black !important;
+}
