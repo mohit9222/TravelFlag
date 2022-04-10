@@ -5,7 +5,11 @@
 4. [Flow Diagram](#flowdiagram)
 
 ### General Info
+<<<<<<< HEAD
 ### TravelFlag Coding Assignment
+=======
+### TravelFlag
+>>>>>>> f59ac5644ebf806a35a247edee710cc78a24e21f
 
 TravelFlag is a project to authenticate email/ password and perform CRUD operations.
 
