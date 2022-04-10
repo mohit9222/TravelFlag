@@ -14,6 +14,7 @@ This is the login.css file which is used in login.js file.
   src: url(../../fonts/Memphis\ River.otf) format("truetype");
 }
 
+
 .login,
 .image {
   min-height: 100vh;

@@ -6,6 +6,7 @@ consists of the logout option and once the user logsout, the values from cookies
 are deleted. 
  **************/
 
+
 //IMPORT SCRIPTS
 import React, {Component} from "react";
 import {Redirect} from "react-router-dom";

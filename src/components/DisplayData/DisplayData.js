@@ -5,6 +5,7 @@ This is the DisplayData component is used to display the data. All the data fetc
 fro the API call is looped and displayed on this component page.
  **************/
 
+
 //IMPORT SCRIPTS
 import React from 'react';
 import '../DisplayData/DisplayData.css'

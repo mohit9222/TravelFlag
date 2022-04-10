@@ -8,6 +8,7 @@ calculate and display 5 posts per page. Other features added here are Modals
 and tooltips.
  **************/
 
+
 //IMPORT SCRIPTS
 import React, {useEffect, useState} from 'react';
 import axios from 'axios'

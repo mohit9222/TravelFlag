@@ -2,8 +2,8 @@
 App component :
 ****************
 This is the App component is used to Route to all the pages with the help of React-router-dom.
-It routes to the login and the Dashboard page. There is also a Protected route to
-protect certain routes in our application from users who don't have the proper authentication.
+It routes to the login and the Dashboard page. There is also a Protected route to protect
+certain routes in our application from users who don't have the proper authentication.
  **************/
 
 //IMPORT SCRIPTS

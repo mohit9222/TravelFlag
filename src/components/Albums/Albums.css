@@ -3,7 +3,8 @@ Album.css :
 ****************
 This is the Album.css file which is used in Album.js file. 
  **************/
-.Add_user {
+
+ .Add_user {
     float: right;
 }
 

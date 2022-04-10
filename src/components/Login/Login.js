@@ -8,6 +8,7 @@ If the user is logged in, then on opening a new tab it will login to the Dashboa
 component. If not, it redirects to the Login component.
  **************/
 
+
 //IMPORT SCRIPTS
 import React, {Component} from "react";
 import "../Login/Login.css";

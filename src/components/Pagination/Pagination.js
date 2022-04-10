@@ -2,8 +2,8 @@
 Pagination Component :
 **********************
 This is the Pagination component which consists of the pagination logic. The 
-active pages, posts per page, total posts and paginate values are all
-called in this component from the Album component.
+active pages, posts per page, total posts and paginate values are all called
+in this component from the Album component.
  *********************/
 
 //IMPORT SCRIPTS
@@ -13,6 +13,7 @@ import '../Pagination/Pagination.css'
 const Pagination = ({ postsPerPage, totalPosts, paginate }) => {
   const pageNumbers = [];
 
+//loop
   for (let i = 1; i <= Math.ceil(totalPosts / postsPerPage); i++) {
     pageNumbers.push(i);
   }

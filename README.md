@@ -5,9 +5,9 @@
 4. [Flow Diagram](#flowdiagram)
 
 ### General Info
-### TravelFlan Coding Assignment
+### TravelFlag Coding Assignment
 
-Assignment to authenticate email/ password and perform CRUD operations.
+TravelFlag is a project to authenticate email/ password and perform CRUD operations.
 
 ## Technologies
 A list of technologies used within the project:
@@ -19,7 +19,7 @@ A list of technologies used within the project:
 
 ## Installation
 The application is developed using Javascript along with React JS(framework)
-$ git clone https://github.com/mohit9222/codingassigments.git
+$ git clone https://github.com/mohit9222/TravelFlag.git
 $ npm install
 $ npm start
 
