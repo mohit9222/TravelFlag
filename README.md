@@ -5,7 +5,11 @@
 4. [Flow Diagram](#flowdiagram)
 
 ### General Info
+<<<<<<< HEAD
+### TravelFlag Coding Assignment
+=======
 ### TravelFlag
+>>>>>>> f59ac5644ebf806a35a247edee710cc78a24e21f
 
 TravelFlag is a project to authenticate email/ password and perform CRUD operations.
 
@@ -19,7 +23,7 @@ A list of technologies used within the project:
 
 ## Installation
 The application is developed using Javascript along with React JS(framework)
-$ git clone https://github.com/mohit9222/codingassigments.git
+$ git clone https://github.com/mohit9222/TravelFlag.git
 $ npm install
 $ npm start
 
